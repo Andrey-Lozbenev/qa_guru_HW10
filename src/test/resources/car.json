@@ -1,0 +1,13 @@
+{
+  "brand" : "Skoda",
+  "model" : "Kodiaq",
+  "colour" : "Black",
+  "wheels" : "19",
+  "price" : "3000000",
+  "dimensions" : {
+    "length": 4653,
+    "width": 1879,
+    "height": 1621
+  },
+  "extras" : ["mirror", "grid", "cruise control"]
+}
